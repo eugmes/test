@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage("Checkout") {
       steps {
-        echo "success"
+        echo "huge success"
       }
     }
   }
